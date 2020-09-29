@@ -1,0 +1,3 @@
+Does not auto play after a song ends.
+Cannot use the duration bar to fast forward.
+https://www.youtube.com/watch?v=WTwwX__o01M
